@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a physic student born in 1997, passionate by space, motivated by art and powered by computer science.
+I'm a physics student born in 1997, passionate by space, motivated by art and powered by computer science.
 
 My website: https://vincent.foriel.xyz
 
