@@ -19,6 +19,8 @@
   </a>
 <img src="https://img.shields.io/badge/Discord-Leirof%20%2F%20Vincent%234203-blue?style=flat-square&logo=discord&logoColor=white">
 
+![](https://github-profile-trophy.vercel.app/?username=leirof)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leirof&theme=github_dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leirof&theme=github_dark) 
@@ -28,3 +30,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leirof&theme=github_dark&utcOffset=8)
   
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leirof&label=Profile%20views&color=0e75b6&style=flat-square"/> </p>
