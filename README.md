@@ -17,7 +17,7 @@
 <a href="https://pypi.org/user/Leirof/">
     <img src="https://img.shields.io/badge/PyPi-Leirof-blue?style=flat-square&logo=pypi&logoColor=white">
   </a>
-<img src="https://img.shields.io/badge/Discord-Leirof%20%2F%20Vincent%234203-blue?style=flat-square&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-leirof-blue?style=flat-square&logo=discord&logoColor=white">
 
 ![](https://github-profile-trophy.vercel.app/?username=leirof)
 
