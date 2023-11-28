@@ -3,7 +3,7 @@
 
 # Hi there! 👋
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=3296FA&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=I'm+a+physics+student+born+in+1997;Passionate+by+space%2C+motivated+by+art+and+powered+by+computer+science.;My+website%3A+https%3A%2F%2Fvincent.foriel.xyz)](https://vincent.foriel.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=3296FA&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=I'm+a+PhD+student+in+astrophysics%2C+born+in+1997;Passionate+by+space%2C+motivated+by+art+and+powered+by+computer+science.;My+website%3A+https%3A%2F%2Fvincent.foriel.xyz)](https://vincent.foriel.xyz)
 
 <a href="https://twitter.com/VincentForiel">
     <img src="https://img.shields.io/badge/Twitter-@VincentForiel-blue?style=flat-square&logo=twitter&logoColor=white">
