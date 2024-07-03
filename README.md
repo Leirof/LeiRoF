@@ -30,5 +30,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VForiel&theme=github_dark&utcOffset=8)
   
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VForiel&label=Profile%20views&color=0e75b6&style=flat-square"/> </p>
